@@ -142,7 +142,16 @@ This guide will walk you through setting up, building, and deploying your Flask 
   ```powershell
   kubectl apply -f k8s-deployment.yaml
   ```
+  
+## 💻 UI Preview
 
+### 🔸 Model Inference UI – Example 1
+![UI Preview 1](UI1.png)
+
+---
+
+### 🔸 Model Inference UI – Example 2
+![UI Preview 2](UI2.png)
 ---
 
 ## 10. Endpoints
